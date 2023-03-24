@@ -81,6 +81,7 @@ footer  {
     margin: 0 auto;
     margin-bottom:50px;
     margin-top:10px;
+    background-color: rgb(248, 244, 244);
 }
 
 footer h3 {
@@ -477,6 +478,7 @@ main{
 
     footer .flexcontainer{
         flex-direction: column;
+        background-color: rgb(248, 244, 244);
         
     }
     .hero{
